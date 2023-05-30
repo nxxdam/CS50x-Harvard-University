@@ -1,0 +1,12 @@
+Video : CS50-Introduction to Computer Science : SOLE-LOCAL STREETWEAR STORE (E-COMMERCE WEBSITE)
+Link: https://www.youtube.com/watch?v=_jF1hUaXRu4
+
+Description: 
+-Completed a web development project as the final project for the CS50x: Introduction to Computer Science course at Harvard University.
+-Developed an e-commerce website called Sole, focused on streetwear attires, primarily sneakers, using HTML and CSS.
+-Implemented key features of the website, including product listings, shopping cart functionality, and secure online transactions.
+-Created user-friendly and responsive web pages using HTML for the structure and CSS for the design and layout.
+-Integrated product catalogs with images and descriptions, enabling users to browse and select their favorite sneakers from popular brands like Nike, Puma, Adidas, and Converse.
+-Incorporated interactive elements and user input forms to facilitate the purchase process, including selecting sizes, quantities, and adding items to the shopping cart.
+-Ensured data security and privacy by employing encryption protocols and secure transaction handling mechanisms.
+-Tested the website's functionality and user experience across different devices and browsers, ensuring compatibility and responsiveness
